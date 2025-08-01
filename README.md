@@ -1,1 +1,1 @@
-Pares ordenados X,Y para un ejercicio de regresion polinómica.
+datosTransformacion.csv: Pares ordenados X,Y para un ejercicio de regresion polinómica.
